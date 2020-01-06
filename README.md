@@ -15,3 +15,12 @@ This is a work in progress.
 ## Step 1 Installation
 
 The module can be installed to MMLS by following instructions here.
+
+## Step 2 Usage
+
+First, a configuration file has to be created specifying settings to be used for the module.
+
+[DEFAULT]
+LogFileDirectory = ./data/
+LogFormat = apache
+Fitting = least-square
