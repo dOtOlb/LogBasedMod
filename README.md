@@ -20,6 +20,7 @@ The module can be installed to MMLS by following instructions here.
 
 First, a configuration file has to be created specifying settings to be used for the module.
 
+```no-highlight
 [DEFAULT]
 LogFileDirectory = ./data/
 LogFormat = apache
@@ -27,6 +28,7 @@ Fitting = least-square
 ArrivalModel = exponential
 PopularityModel = custom
 LoadGeneration = 1h
+```
 
 The directives are explained as follows:
 
