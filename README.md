@@ -12,4 +12,6 @@ The module is used on top of MMLS and can produce simulated load based on patter
 
 This is a work in progress.
 
-# Step 1 Installation
+## Step 1 Installation
+
+The module can be installed to MMLS by following instructions here.
