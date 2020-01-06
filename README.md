@@ -49,3 +49,10 @@ The name of the popularity model to be used for the distribution of URLs.  Curre
 
 #### LoadGeneration
 The length of duration for the simulated load.
+
+## Step 3 Running the simulation
+
+Use the MMLS command as follows:
+
+python ./main.py -v 1 -m log_based > load.ouot
+
