@@ -54,5 +54,5 @@ The length of duration for the simulated load.
 
 Use the MMLS command as follows:
 
-python ./main.py -v 1 -m log_based > load.ouot
+```python ./main.py -v 1 -m log_based > load.ouot```
 
