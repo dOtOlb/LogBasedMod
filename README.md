@@ -35,6 +35,11 @@ The directives are explained as follows:
 #### LogFileDirectory
 The path to which the example log file(s) is stored.  Both relative and absolute paths are supported.
     
-##### LogFormat
-- The format of the log files.  The common log formats are supported, e.g. w3c, w3c extended, etc.
+#### LogFormat
+The format of the log files.  The common log formats are supported, e.g. w3c, w3c extended, etc.
 
+#### Fitting
+The method of curve fitting to be used for parameter estimation.  It should be matching the specified model settings.  In other words, only the supported curve-fitting methods could be chosen to use for a particular arrival distribution specified.
+
+#### ArrivalModel
+The name of the statistical model to be fitted into the data.  Currently, only exponential distribution is supported.
