@@ -32,10 +32,9 @@ LoadGeneration = 1h
 
 The directives are explained as follows:
 
-```no-highlight
-LogFileDirectory
+##### LogFileDirectory
     The path to which the example log file(s) is stored.  Both relative and absolute paths are supported.
-```
+    
 ```no-highlight
 LogFormat
     The format of the log files.  The common log formats are supported, e.g. w3c, w3c extended, etc.
