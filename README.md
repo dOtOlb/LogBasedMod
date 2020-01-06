@@ -10,3 +10,6 @@ This is distributed under MIT license (if the license file has not been added ye
 
 The module is used on top of MMLS and can produce simulated load based on patterns extracted from a given set of production log files.
 
+This is a work in progress.
+
+# Step 1 Installation
