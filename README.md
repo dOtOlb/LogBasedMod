@@ -43,3 +43,9 @@ The method of curve fitting to be used for parameter estimation.  It should be m
 
 #### ArrivalModel
 The name of the statistical model to be fitted into the data.  Currently, only exponential distribution is supported.
+
+#### PopularityModel
+The name of the popularity model to be used for the distribution of URLs.  Currently only custom model (custom) is supported.
+
+#### LoadGeneration
+The length of duration for the simulated load.
