@@ -9,8 +9,10 @@ import configparser
 class LogBasedMod(SampleMod):
     """
     this module will produce load with patterns matching
-    the observed distribution from the log provided 
+    the observed distribution from the log provided
     """
+
+    # run method
     __run():
         # reading the config
         config = configparser.ConfigParser()
