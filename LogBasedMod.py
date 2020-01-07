@@ -7,6 +7,7 @@ import SampleMod
 import configparser
 
 class LogBasedMod(SampleMod):
+    """ this module will produce load with patterns matching the observed distribution from the log provided """
     __run():
         # reading the config
         config = configparser.ConfigParser()
