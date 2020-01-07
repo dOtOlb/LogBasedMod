@@ -1,6 +1,7 @@
 import sys
 import datetime
 import operator
+# this needs to be updated perhaps
 sys.path.append("../")
 import SampleMod
 import configparser
